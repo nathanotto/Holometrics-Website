@@ -35,9 +35,13 @@ $(document).ready(function(){
 				scrollTop: 0
 			}, 1500,'easeInOutExpo');
 		});
-		
-		
-		
+	});
+	$(function() {
+		$('#to-the-top').click(function () {
+			$('html, body').stop().animate({
+				scrollTop: 0
+			}, 1500,'easeInOutExpo');
+		});
 	});
 
 
