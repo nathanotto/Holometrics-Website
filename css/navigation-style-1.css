@@ -2,11 +2,11 @@
 /* Navigation Style 1 */
 	
 	#logo {
-		background:transparent url(../images/logo.png) no-repeat center center;
-		background-size:45px 45px;
+		background:url(../images/logo.png) 0 0px #222222;
+		background-size:65px 65px;
 		position:absolute;
-		width:45px;
-		height:45px;
+		width:65px;
+		height:65px;
 		left:50%;
 		margin-left:-32px;
 		z-index:100;
@@ -14,8 +14,8 @@
 	}
 	
 	#logo a{
-		width:45px;
-		height:45px;
+		width:65px;
+		height:65px;
 		position:absolute;
 	}
 	
