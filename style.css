@@ -214,12 +214,12 @@
 	
 	#loader {
 		background:url(images/newave-loading.gif) center center no-repeat;
-		height: 50px;
-		width: 50px;
+		height: 159px;
+		width: 151px;
 		left: 50%;
 		top: 50%;
 		position: absolute;
-		margin: -25px 0 0 -25px;
+		margin: -80px 0 0 -75px;
 	}
 
 	
